@@ -1,0 +1,26 @@
+body{
+    background-color: #D5DBB3;
+}
+h3{
+    color: #EBA83A;
+    font-family: 'DM Sans', sans-serif;
+}
+.title{
+    color: #EBA83A;
+    font-size: 5rem;
+    margin: 3% 2%;
+    text-align: center;
+    font-family: 'DM Serif Display', serif;
+    text-shadow: 2px 0 #852747;
+}
+.row{
+    text-align: center;
+    margin: 0 25% 0 25%;
+}
+.dice-img
+{
+    height: 200px;
+}
+.player1{
+    padding-right: 5%;
+}
